@@ -9,3 +9,5 @@ It is divided in multiple parts:
 -"Entrega provisional": Almost at the endpoint, it has everything implented but lacks the right documentation.
 
 -"Entrega final": Complete work with all everything that's needed.
+
+At all parts the Makefile can be used to create the needed objects and compile the whole program.
