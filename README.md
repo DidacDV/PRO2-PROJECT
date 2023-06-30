@@ -3,7 +3,7 @@ Dedicated to the PRO2 project done with c++
 
 This whole project is a console program that aims to represent the performance of interconnectated processors, all the specifics can be read at "Enunciat".
 
-"/Doxygen html/" contains the doxygen html documentation of the project.
+"/Doxygen html/" contains the auto-generated doxygen html documentation of the project. The doxygen file used is in the same directory.
 
 "Lab exam" contains the specifics of some modifications done to two functions.
 
