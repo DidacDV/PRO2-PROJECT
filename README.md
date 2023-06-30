@@ -5,6 +5,6 @@ This whole project is a console program that aims to represent the performance o
 
 "Doxyfile" can be used to generate the doxygen documentation of the project.
 
-"Lab exam" contains the specifics of some modifications done to two functions.
+"Lab_exam" contains the specifics of some modifications done to two functions.
 
 The Makefile can be used to create the needed objects and compile the whole program.
