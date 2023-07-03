@@ -1,5 +1,5 @@
 # PRACTICA PRO2
-Dedicated to the PRO2 project done with c++
+Dedicated to the PRO2 project done with c++ to practice Object Oriented Programming
 
 This whole project is a console program that aims to represent the performance of interconnectated processors, all the specifics can be read at "Enunciat".
 
